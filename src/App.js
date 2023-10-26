@@ -1,11 +1,12 @@
 
-import './App.css';
+// import './App.css';
+import Body from './component/Body';
+import './index.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <h1 className='font-bold text-3xl text-red-800'>Radhe Radhe💗</h1>
-    </div>
+    <Body/>
   );
 }
 
